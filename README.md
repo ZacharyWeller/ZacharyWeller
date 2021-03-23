@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ZacharyWeller
+- 👀 I’m interested in analyzing data to create and deploying machine learning models. 
+- 💞️ I’m looking to collaborate on anything data science! I'm I am always looking to learn new things!!
